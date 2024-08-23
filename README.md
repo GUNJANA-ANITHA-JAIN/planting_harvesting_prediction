@@ -1,6 +1,6 @@
 # Rice Planting and Harvesting Prediction
 
-This project focuses on predicting optimal planting and harvesting times for rice using historical weather data. The dataset includes daily records for the years 2020 and 2021, and various machine learning algorithms were applied to achieve the most accurate predictions. 
+This project focuses on predicting optimal planting and harvesting times for rice using historical weather data. The dataset includes daily records for the years 2020 and 2021, and various machine learning algorithms were applied to achieve the most accurate predictions. The results are designed to assist farmers in making informed decisions about the best times to plant and harvest, ultimately enhancing crop yields and efficiency.
 
 ## Dataset
 
