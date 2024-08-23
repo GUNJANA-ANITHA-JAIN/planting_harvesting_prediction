@@ -70,11 +70,11 @@ train_data = df_combined[df_combined['datetime'].dt.year == 2020].copy()
 test_data = df_combined[df_combined['datetime'].dt.year == 2021].copy()
 
 # Define features and labels for training
-X_train = train_data[['tempmax', 'tempmin', 'humidity', 'precip', 'solarenergy', 'daylight_hours']]
+X_train = train_data[['tempmax', 'tempmin', 'humidity',  'daylight_hours']]
 y_train_planting = train_data['is_planting_time']
 y_train_harvesting = train_data['is_harvest_time']
 
-X_test = test_data[['tempmax', 'tempmin', 'humidity', 'precip', 'solarenergy', 'daylight_hours']]
+X_test = test_data[['tempmax', 'tempmin', 'humidity', 'daylight_hours']]
 y_test_planting = test_data['is_planting_time']
 y_test_harvesting = test_data['is_harvest_time']
 
