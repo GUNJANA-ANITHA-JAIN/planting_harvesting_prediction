@@ -59,13 +59,13 @@ Nine different machine learning algorithms were tested to determine the most acc
 
 - **Model Used**: XGBoost
 - **Evaluation Metrics**: Accuracy, Classification Report
-![planting](https://github.com/user-attachments/assets/affaa8d1-b18a-4d0f-ab8b-741d62cd8f00)
+  ![planting](https://github.com/user-attachments/assets/affaa8d1-b18a-4d0f-ab8b-741d62cd8f00)
 
 #### Harvesting Time Prediction
 
 - **Model Used**: XGBoost
 - **Evaluation Metrics**: Accuracy, Classification Report
-![metric](https://github.com/user-attachments/assets/dd07a29d-4aeb-4d32-bf60-a9ee93017ba7)
+  ![metric](https://github.com/user-attachments/assets/dd07a29d-4aeb-4d32-bf60-a9ee93017ba7)
 
 ### Visualizations
 
